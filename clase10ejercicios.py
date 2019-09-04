@@ -1,4 +1,3 @@
-"""
     #ejercicio 1
 verduleria = {"Frutilla":1000,
     "Manzana":650,
@@ -17,7 +16,7 @@ else:
     print("No hay. F")
 
 
-"""
+
     #ejercicio 2
 saludos = { "Espaniol": "Hola",
             "Frances": "Salut",
