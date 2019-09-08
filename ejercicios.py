@@ -60,11 +60,11 @@ while(opcion != 0):
 
 
     elif(opcion == 4):
+        #ejercicio 3, ingresar cualquier cosa y mostrar la longitud de esta cadena.
         ing = raw_input("Ingrese cualquier cosa: ")
         print(len(ing))
-
-        #print(longitud)
-
+        break
+        
 
 
     elif(opcion == 0):
