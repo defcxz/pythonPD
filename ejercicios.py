@@ -56,3 +56,17 @@ while(opcion != 0):
         fun = max_de_tres(max1,max2,max3)
         print("El mayor de los tres numeros ingresados es: ",fun)
         break
+
+
+
+    elif(opcion == 4):
+        ing = raw_input("Ingrese cualquier cosa: ")
+        print(len(ing))
+
+        #print(longitud)
+
+
+
+    elif(opcion == 0):
+        print("Adios")
+        break
