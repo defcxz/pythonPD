@@ -1,7 +1,7 @@
 import random
 import time
 
-opcion = int(input("Ingrese la opcion deseada, 0 para salir "))
+opcion = int(input("Ingrese la opcion deseada, 0 para salir: \n 1.Generar numeros aleatorios. \n 2. Mostrar el mayor de dos numeros. \n 3.Mostrar el mayor de 3 numeros. \n 4. Longitud del ingreso"))
 
 while(opcion != 0):
     if(opcion == 1):
