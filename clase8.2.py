@@ -11,4 +11,3 @@ punt7 = int(input("ingrese la puntuacion del primer juez"))
 
 
 def clavados (punt1,punt2,punt3,punt4,punt5,punt6,punt7):
-
