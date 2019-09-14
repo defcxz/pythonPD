@@ -68,5 +68,5 @@ while(opcion != 0):
 
 
     elif(opcion == 0):
-        print("Adios")
+        print("Adios :D")
         break
